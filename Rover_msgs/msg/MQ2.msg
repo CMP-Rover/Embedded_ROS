@@ -1,0 +1,2 @@
+float32 Reading
+bool detected
